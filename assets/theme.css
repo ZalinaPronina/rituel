@@ -4806,8 +4806,6 @@ hr {
   .mobile-nav-wrapper.js-menu--is-open {
     display: block; }
 
-.mobile-nav--close .icon-hamburger {
-  display: none; }
 
 .site-header__mobile-nav {
   z-index: 11;
